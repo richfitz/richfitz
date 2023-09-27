@@ -7,7 +7,7 @@ Most projects in my personal namespace are either historical and/or personal pro
 Most of my current software can be found in the [`mrc-ide`](https://github.com/mrc-ide/), [`vimc`](https://github.com/vimc) and [`reside-ic`](https://github.com/reside-ic) organisations (among others)
 
 <small><i>
-(Profile photo from a particularly wet ascent of [Cresent Climb, Pavey Ark](https://www.ukclimbing.com/logbook/crags/pavey_ark-342/crescent_climb-5965) in December 2019
+(Profile photo from a particularly wet ascent of [Cresent Climb, Pavey Ark](https://www.ukclimbing.com/logbook/crags/pavey_ark-342/crescent_climb-5965) in December 2019)
 </i></small>
 
 <link rel="me" href="https://fosstodon.org/@richfitz"></link>
